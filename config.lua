@@ -1,6 +1,6 @@
 Config = {}
 
--- Add the database name for player_vehicles
+-- Add the database name for owned_vehicles
 Config.DatabaseName = 'ESXLegacy_0193BF' -- Replace with your actual database name
 
 -- Key Configuration

@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Save5Bucks'
 description 'Manual Transmission Script using ESX'
-version '1.0.1'
+version '1.0.2'
 
 -- Client scripts
 client_scripts {
